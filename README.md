@@ -1,8 +1,8 @@
 ## Welcome XH4 !!
  <div>
   <a href="https://github.com/cutipu/">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cutipu&show_icons=true&theme=highcontrast"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutipu&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cutipu&show_icons=true&theme=nomal"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutipu&theme=nomal"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="cutipu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,6 +19,6 @@
   <a href = "cutipu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 <a href="https://github.com/cutipu"><img alt="cutipu Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=cutipu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+    src="https://activity-graph.herokuapp.com/graph?username=cutipu&bg_color=FFFFFF&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
  
 </div>
