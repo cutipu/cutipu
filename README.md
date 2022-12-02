@@ -13,7 +13,7 @@
   ##
  
 <div> 
-  <a href="[https://www.youtube.com/watch?v=FwRsaz46OcQ](https://www.youtube.com/channel/UC-mdmoq-JGVfTqI1X02OToQ)" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC-mdmoq-JGVfTqI1X02OToQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://t.me/rebychubx" target="_blank"><img src="https://img.shields.io/badge/Telegram-7289DA?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
