@@ -1,5 +1,16 @@
 
 <h1 align="center">Hi there 👋</h1>	
+ <div>
+  <a href="https://github.com/hoaan1995/">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cutipu&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutipu"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="cutipu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="cutipu-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+  
+  ##
 </p>
 <p align="center" style="margin-bottom: 10px">
 	<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
