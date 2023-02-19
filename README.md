@@ -11,7 +11,7 @@
   ##
 </p>
 <p align="center" style="margin-bottom: 10px">
-	<img align="center" alt="cutipu-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="100" />
 	<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" />
 	<img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100" />
 	<img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100" />
